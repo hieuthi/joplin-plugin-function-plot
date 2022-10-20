@@ -1,0 +1,12 @@
+{
+	"manifest_version": 1,
+	"id": "com.hieuthi.joplin.function-plot",
+	"app_min_version": "2.7",
+	"version": "1.0.0",
+	"name": "Function Plot",
+	"description": "Joplin plugin based on Function Plot library to render function such as y = x * x",
+	"author": "Hieu-Thi Luong",
+	"homepage_url": "https://github.com/hieuthi/joplin-plugin-function-plot",
+	"repository_url": "https://github.com/hieuthi/joplin-plugin-function-plot",
+	"keywords": []
+}
