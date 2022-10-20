@@ -8,5 +8,5 @@
 	"author": "Hieu-Thi Luong",
 	"homepage_url": "https://github.com/hieuthi/joplin-plugin-function-plot",
 	"repository_url": "https://github.com/hieuthi/joplin-plugin-function-plot",
-	"keywords": []
+	"keywords": ["joplin-plugin", "function plot", "plotting", "mathematic"]
 }
