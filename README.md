@@ -11,7 +11,7 @@ Some simple examples can be found in the example below. For advanced usage pleas
 
 One important warning is that you need to write the options in JSON format while examples in [function-plot](https://mauriciopoppe.github.io/function-plot/) is actually javascript objects. Meaning that you need to double-quote all keys, do not use single quote, and do not leave ending comma.
 
-`````
+`````markdown
 # 📈 Function Plot
 
 ## Plotting a curve
